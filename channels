@@ -1,0 +1,1497 @@
+#EXTM3U
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/57" tvg-id="03681100b9a0fe63a4bf56f68a0aac7c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1140739?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="21a940005c4075142125c8d13109f6b7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/4237601?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/251" tvg-id="b324edf787d30796af69bcb2cb9dbb54",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2012030131?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/2" tvg-id="be718b00f88fb0d308c6a549cd5feb25",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/9138622?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/242" tvg-id="51164de58b5269224fd36c3133d3aebe",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1699550801?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="c370b380be80a7090a29019174933187",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/11759811?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="328d12013d26be2cc925c242c2161bea",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/17993010?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/190" tvg-id="a0d95aff114cb3337a94df872d9dd196",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2136660384?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/37" tvg-id="031666e40d9badd87af2189e35f422dc",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1684411907?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="7e404381ea96d7b34c00f0a95b7217f2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/21184638?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/6" tvg-id="2270ff010c7c12a42889c7956db80fa1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/33517602?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="128ed385c0266cb0af8f6b1fd03ce0e6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/97750546?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/14" tvg-id="49adab6d60cde67effb75d8c20ae1314",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1839967561?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/5" tvg-id="3f08bce0157fb537132ec0683c53e3de",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1622935615?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/76" tvg-id="a2615fd0a6e3fe9e14eb4b3620d93eee",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1348428194?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="4ac3c303f16ca9635371d94a0fd8fb34",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/63161162?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/64" tvg-id="13a6de8204879bf17d5cca75f86d86a9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/48145939?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/238" tvg-id="81ba64dfea02760c3d7ace75637be23c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1600436865?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="b975450350971b81ec847500531ea879",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/54883769?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/61" tvg-id="5d1c44484508c66a68c4fd03f5ef0741",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1212423261?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/260" tvg-id="a4049203714b105ce33b567c95ed2456",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/59901092?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="2a66795c31e587d03995505208d8caa9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1551459882?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/207" tvg-id="d9bf24c9d4bb99ba316e5882f407db25",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1227145177?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/203" tvg-id="d96e28c8b703c885e8a7fd56394f02f9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1210609369?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/200" tvg-id="e4062d47fad840bcec0a3a13434a860c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1194133220?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/5" tvg-id="b63dfa83124fb271305bb630fb087d40",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/66731446?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/254" tvg-id="dcefcb85df3309435bb46ffd351a296b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/97251292?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/16" tvg-id="879df48b512ec6c5d8f79167397ef13c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/200580487?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="072ca184b909c8e4b63649b915ebb287",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/77671431?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/81" tvg-id="705d5bfedaa0c5f07798190a1d3bf9ba",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2119916912?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/224" tvg-id="5ede7c04cbb26f87dcd453b15426a781",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/75292254?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="ff669e8408296f635634fdd008ac56ce",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/77489919?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="32f1e49130e81bdfa2d95fc6599c64ee",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/300216626?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/220" tvg-id="79092152252602292f11b1967386d783",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1377896825?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/160" tvg-id="6ba50a05e7dced67036477dd18a932a8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/84583787?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/63" tvg-id="2787c9057e46fbeb0129023fe09b4a9b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/97093415?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/232" tvg-id="6832cbff4945978ce68d25ca2cd3a070",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2144023144?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/30" tvg-id="dea7305e956bdaabc604366646064f55",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1580247006?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/79" tvg-id="ade323ddf2adbd2acd01ffc6637c9f5e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1562633133?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="3ab96348d362598365c903929e86731a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1214495034?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="7e2ec0c35ebc64a06bafa1a9b8398aca",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1136668286?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="bca31f86e109538f1cd551d1e693735b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/102736828?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/93" tvg-id="4ac20106170383e053914ea4452f66c6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/100778570?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="3b81f08b1447e733fbaaf7e767574af1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/200311099?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/161" tvg-id="a341f5f8deb995648f9203f036732cee",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2029339043?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="4571005154575a3bc6514a25e821cdd6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1358983493?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/9" tvg-id="41eaef863391e4f7ebc6f65a1606f1d0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/116386369?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/89" tvg-id="092981862505d59bcafd1431bbd4a30f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/109127945?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/152" tvg-id="227919f061889709e87234cf858e457e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1880717602?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/214" tvg-id="ae1fe24ef4806ee1d1372a4826458110",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1323442094?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/90" tvg-id="77c4c807009914e0d42823091fe26965",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/130598007?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/194" tvg-id="27d5248804ac25703ab3b114059ab95e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/136631591?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/257" tvg-id="247f8908ea5d56a6b2cd3362d8ab78ca",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/143228708?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/80" tvg-id="fd138a794f8f9700349dff2416895fea",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2039092221?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="8ba4a7e2f1dd6c70eebc1a83a7e73391",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1655153803?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/215" tvg-id="89e073cfa061e3d8b03341eb3cbb1299",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1332994185?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="b3c8ba8a4884b8e7f1c83ace64bf88a2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/180013235?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/92" tvg-id="f04cfd897ae7c4ef0326f34581519fb9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/167595248?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/106" tvg-id="74a4dd0b549ee54171aaeb2b508a19f2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/199074932?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/228" tvg-id="86037b574abc687032d3179a7d4e8356",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1467679622?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/258" tvg-id="2de0a458813f7762d189905bcb7daea2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1487200301?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/94" tvg-id="93c1088b4e8e10ac7fa5c61676ca12a5",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/185123219?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/84" tvg-id="522e390b619eafbace541c9ab7020258",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/188296786?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/95" tvg-id="55c58b8b5a8c5b7e92374e13d57fce0a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/193709397?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/85" tvg-id="d572acce076026c222a0f20139d364e4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1319924437?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="d705f8534e61524ce2cb0cf020a09dfd",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1408763351?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/213" tvg-id="d47f7fcd377a30bf73265eb9a6e12a19",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1300201428?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/54" tvg-id="ce1cd78c1d2fa1a36b74f5f4164380f4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/215424206?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="4729807cd4578832df28fc9fbca95f85",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2088773959?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/22" tvg-id="b238ecf9dd13010fd283ec1cff19df54",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2045524146?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/100" tvg-id="feb26b8e331a065920fc9183184f4d2f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/241939198?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="d08f34ea316c07a7867de246d3d4307a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1781829584?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/96" tvg-id="57ce3a0d7f9da4fa8d2d392df70cc339",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/221957719?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/97" tvg-id="764b420daa68f0658b339c09d8ae7537",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/222448502?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="5b1661e989b58c0295917a2128bd406e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1767970395?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="361fe1612aaa97830e33619b7d502f8a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1642143542?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/98" tvg-id="df736f0d096be48c5b25806fbccb3e63",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/225407967?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="b3008b0d0edbf2f894bfaff60f58fa41",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/227213491?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/99" tvg-id="4eefad0d9c1d4e869f88c87e2263bafc",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/229502798?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/69" tvg-id="56656a0e4d7574330ff6616a44f7d883",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/241853782?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/76" tvg-id="1c13f76a6dc6bebe729e39c2105fe540",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1794577180?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/165" tvg-id="8ae5e16a8bec35b93cb3cab49b9006bc",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1793189258?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/101" tvg-id="bc28d80e347f7c933b5212e336f4ec11",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/249047228?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/29" tvg-id="69a69e0e54fb88fa81bdd0401aef267e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/245278313?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/64" tvg-id="c1f5f08e630b6ff40aa185bc9b8bb8a0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/250672577?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/25" tvg-id="cd53e10e29486196e67b589250c3c5af",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/249648077?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/163" tvg-id="f78315ed625a19568c2b586d0bcf9e07",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1830126583?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="69c1690fd6483eabff7f8b277bf1a616",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/258589033?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="48f38f0fd67185e602866bfe4b35e0b5",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/261092168?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="ed702968ae64af0d1fce5bd440d50c41",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1747546349?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/12" tvg-id="44ff3d7fb8eab2b7c4becaa7acc96edc",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2134769476?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/192" tvg-id="d36a1048d2c10a48728a5b51500c504b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1209035475?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/32" tvg-id="e684c80fd077c947c306c8b093bfa7c6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/264799462?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/33" tvg-id="fd78d50f8c1cb28a3985e330b1a35904",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/265648381?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/34" tvg-id="584638100d25fd10a7d277732b763758",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/272123480?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/35" tvg-id="eaf21d1055f2769f45d45831e2d1d0af",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/270398186?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/84" tvg-id="a4bfc2d651db0e949965c6df872e8373",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1455603620?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/7" tvg-id="b3d683909f568cd0414a49c690dfb650",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/277075635?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/26" tvg-id="e0588110ee09189ed1c6bceb99468cc8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/276912352?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/233" tvg-id="f6dd91dbb751143092b5420f9c5d3bf2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1536286198?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/226" tvg-id="dc5c96d65d9ec7aa6e950854242b2645",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1452694748?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/38" tvg-id="e7bd2d11a9f8c24a658d33d8f84098e6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/288210407?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="af0df9907d73266db4b30f954cc032b5",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/284757423?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/150" tvg-id="7ccbe2ea271beda978fd8671c43fd073",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1793248124?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/57" tvg-id="6e5148ef1e3cea9da3b357880ae2bc1f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1867010414?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/211" tvg-id="d911a4568a213e246e3f26b5f2893e72",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1453593049?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/114" tvg-id="47f152cb7be9d4cb415be277e77b1244",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1263726919?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/196" tvg-id="feaed744f81ed079cb90d2de39f5f1c4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1154985726?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/217" tvg-id="31ac2f5ba4551627a16901152f5ea9c3",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1529850929?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/182" tvg-id="52cf4a12dcb0d4bac906e3d00bf68978",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/306892626?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/87" tvg-id="d18b57925de52164ff42f5b62b681bb3",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/307727313?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/42" tvg-id="b024f992b76fdd9576a9dca948a8ca95",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/318317744?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/253" tvg-id="f0e7c0927143274f0107e35cc5a088e0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/314632176?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/55" tvg-id="c255c79726557525cca56aedeb0820d3",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/398939586?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/147" tvg-id="d8c31313effefca22c36aacf1c39134d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/320062424?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/43" tvg-id="05f250132a08a0661a240a11fb5c4480",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/324071941?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="d152d7791b373b3091d478d9e9eb860a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2044154577?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/178" tvg-id="3a0f4952650c2a42004f01e6fe06ce81",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1380519738?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/65" tvg-id="8645be933e4f6bc1222fda23e2e67219",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/331236742?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/41" tvg-id="f97b2f141d3394e81e81bd300fd2cbf1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/338656249?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="30663114c015516b233212c26e546521",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/338781744?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="ff6943148e2623569c37220bba67f9d4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/339962367?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/82" tvg-id="acd6ea7ef0113ed7306ca55a79424978",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2129319596?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/50" tvg-id="330fbf5f2b921bb65a09bacb2423dd58",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1606356787?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/106" tvg-id="33999e94b2c9219962c69a2d151a706c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/345938227?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/129" tvg-id="5d362d9508bf57c80f07abe7764e1515",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/355284573?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/232" tvg-id="32a748156bdfe95069f64b8e4e6e2722",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/357082930?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="6931034c39a4dce9aefba5c492fc97a4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1275277673?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/87" tvg-id="c5d1275ddcbe99ee0c217cd5b286e970",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1562890693?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="1aa45915eab9845fabf2318851c5b97f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/358196250?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/198" tvg-id="ba53dcde9d6e587e450d65af071998cd",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1591497658?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="cefd944c8b7fe8c694b35451a37efb18",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1284832718?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/206" tvg-id="bb1ce0c8846fbeed569537a66811b6ce",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1222646971?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/157" tvg-id="c529754483db8e1ce803601ee7e8c11b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1148529093?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/61" tvg-id="e453da167a129f098e69cd87a80c8634",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/383407076?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/60" tvg-id="311b9d969e49f50118810e152ea3c0ad",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/379394865?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/103" tvg-id="6f816bf8ee243e799acaa742377671b5",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2020311407?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/28" tvg-id="4af57c9678c8f3132df98660e679e43c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/377288010?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/66" tvg-id="2321f2f6836f529a5383874e7aef896f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1995579683?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/117" tvg-id="da2aa6163361301df23fa7f663ce3871",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/379988698?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/47" tvg-id="5d9bbb9661b642aaa92b96e826ebddfa",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/381393757?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="da0eb597034491302724329021d3e017",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/397741786?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="cfc162c8995631aacf230b06f1c52926",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1214431695?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/109" tvg-id="aa82e0964c825b33141a42de3491ac7b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/383812266?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="6756e916fbf66563c3e8e2a877b299ed",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/384390759?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="eba86be6cbd54521431aa8c064c807a9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1718331627?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/108" tvg-id="15492c97b366f940df0d9d6c1d60e40f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/388778261?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="ffd7974b6d97ddddf16dbefb4a8acbbd",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1268242431?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/199" tvg-id="bbbfae469c8630dd3973915b51b82153",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1185857467?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/194" tvg-id="13c4e1c3a834472bb8be64b833d27f7c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1138869267?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/111" tvg-id="381be9975e2dd7a7ecd8c0cd9d0c0f1d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/401152824?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/112" tvg-id="19223118970543d57e6e19ded1badf18",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/405873177?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/77" tvg-id="c1976e6dce07a854cc09de85a7c589ee",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1835964353?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/67" tvg-id="7720d3f69cdb4f8ef2f7e62d8f1c1896",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1993547895?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/245" tvg-id="bb4985e81782f6bddf39849e1a48e58e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1753565627?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/60" tvg-id="566ac319b087653678d4771205eaf0ae",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/432237142?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/113" tvg-id="ccd44c195d87fe94dd2bd9e009f3047e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/424465612?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/172" tvg-id="4d451d9d293c37ba86b1278001b728b7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/488457549?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="d6d115ec4e5468b6ed10872d96b0b555",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1813369302?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/133" tvg-id="5ce7f1991daaf789578a64283adc391e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/435283804?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/115" tvg-id="abe41c9afe560ef3e04cd35abd5aa6be",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/438101163?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/116" tvg-id="98784d9a5c0339a420981c2ff6d23dc9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/441284760?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/105" tvg-id="92508b1a57b56303416f1b744357715c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/445337746?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="3eb7249d4f6540373794ece5b2153aff",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/488945470?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/212" tvg-id="a0fff2cc4b82a449f3bf2c92abeb6af0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1290993568?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/110" tvg-id="cb3c649bb3b1e0d994b64d21d23ca58f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/459553995?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/142" tvg-id="585be41af9f2590144e4b0f8d2af3923",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/451173208?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="a9dcc86336c038d9785f82a6336fb5c4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1674108073?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/241" tvg-id="237ee9637738ae4802cdbb21a862ea0d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1676246563?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/230" tvg-id="aff897fbec133eb75c473b0ab50190d8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2073557167?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/120" tvg-id="8c48061c5e4b286b058455f5a86e4880",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/470173836?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/119" tvg-id="2be18c1c293992c94a370ae3a2b2b525",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/478994731?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="97178dfe4189bfb1b011bf019da0faf8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2123175831?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/64" tvg-id="068daffbf4c1b98e2fc177af54754720",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2075102470?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="ff07d8c67128bcfc4f2308ab4acafa1e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1188562943?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/239" tvg-id="1b2a5d672d0370c854e8d6ac8feedd14",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1734158875?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/191" tvg-id="5cf246c3e48969b906288435cb3e3a0f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1128723036?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/15" tvg-id="d6635b9d60e04dabd1fa1c75bd3ac8ed",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/492528598?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/120" tvg-id="bcba871d901a431139ff0c8db2b42e81",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/495434428?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/121" tvg-id="69dc8a9d352652702491e1f20f227475",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/495639657?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/122" tvg-id="4233d69db24c3270fd3495c3a736c1a4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/500577090?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/123" tvg-id="fe54ef1d5daf7a0e6878884f32c5477a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/502224126?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="8207739e76d5d823caae308bbb3e1c7d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/510855042?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/124" tvg-id="5fc8519e2aafac7be27cf6240f762958",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/508676191?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="cdb52027c5389057c1f3475d9ff174a8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/656455117?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/15" tvg-id="08cf12ecfdd31e65d2775c3c02beb558",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1813171976?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/251" tvg-id="3d569d1ed9cb05989439b865ce932820",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/513627709?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/125" tvg-id="3d31a19e3d06cbfa9a3ec78bb64389a1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/513880381?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/159" tvg-id="3646a59e4651735e3b5bfe1ad636097d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/514147894?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/30" tvg-id="57f300ffc87363f7cc67ba118ef95531",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2130768727?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/83" tvg-id="968fc36de42e89816fb32eb865a65a78",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1841532822?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="874d24654e532cb52e6d6d1696655f99",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1696877959?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/132" tvg-id="6c4d25a326b511ad1ead5ce67ec5e424",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/589647212?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/219" tvg-id="f123f051fbf7a6a8c1a3ae20bf052c88",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1374692337?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/208" tvg-id="0120c45018efa17f5d4e90df3d4bcdd7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1355030529?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="d4edd59f8f2c787a064d5eae6fa13fad",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/534113748?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="7c2521f35c25daaaab9ce306a84fb5e2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1931552124?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/108" tvg-id="31d4e254942617d7854fa3d455ee5f1d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1424151601?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/127" tvg-id="58546ca002edeb51cc38f86897d68627",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/543970392?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="5937365957813fd86bce59c481385708",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1496725337?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/103" tvg-id="cb01fafe49839e4e4d9cbfcc3e409ebf",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2130313675?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/14" tvg-id="5de0225e2f3d40966fd81c6856b2fc2b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1579343965?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/154" tvg-id="98798521b7c81fe121874c6632195bec",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/562395544?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/129" tvg-id="5b1d9ea16348ba858df32a2c364e9374",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/564010331?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/131" tvg-id="c4ec24a3a84d10d0d26421eec6330dd7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/589622468?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/128" tvg-id="59228e215f2486189cfd08e80bdf7772",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/562963033?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/237" tvg-id="6056ebdef8bbd937dcf36fd5ee7c4edf",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1592481376?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/247" tvg-id="13b5c5e91d61cac1d6d3eb71a25e1ecd",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1774564627?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/36" tvg-id="0b19e96e8de61a1a567b09ffac398290",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1860770059?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/53" tvg-id="0b71f4d6179ad46dcf709e5223c68915",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1458860299?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/14" tvg-id="2f1382ce87bab661a6e165730f4d7a2e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1317147439?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/130" tvg-id="0ce325a2873338f1439586619d921462",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/572908300?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/44" tvg-id="25763122331cc4ee143f7c4afd8836bb",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/573666853?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/85" tvg-id="fe6bbd220036a26aaa44c0328ffaa680",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/582839294?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/17" tvg-id="e9f1f72246fe6064990cdf102a8ebf71",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/586674665?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/70" tvg-id="1415a6f7b1a541805b5dd2e765303ebd",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2007373076?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/205" tvg-id="0f0481c874648844ab9d3832bc795144",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1216414735?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/150" tvg-id="86a35fc6fbf33451ffe541ea20de615d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1180672902?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="f57cfaa3265c5297556fb91f953c9d21",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/603618549?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/134" tvg-id="bceb99a3b1fdbbef81f7cf5e5e9e00fb",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/597289916?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/24" tvg-id="10cd846ba12c0bdb8e292a4b485dcd82",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1803865360?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/135" tvg-id="217aa9a3040f24b206c30dbbf1ffef49",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/598309409?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/79" tvg-id="35c2ebf872bebb90f90a8fc817f27cbb",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2028716597?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/41" tvg-id="dc54a5ede6c7145316070ef2ac8aac0a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1839551708?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/136" tvg-id="db7d25a475804fcdc07cef3c639c0ac2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/606436827?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="c10e8bd929663feba8993351d237c48b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1502285505?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/68" tvg-id="5dc7a7772dfb402a00a0317328ee4cd7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2007484253?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/137" tvg-id="044aa824df2dbe1e90fe2c02689eef62",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/615008772?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="0a51792450cfe4e132678be54e5fffb9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/611930378?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/210" tvg-id="f260a27eacb9450258a3efed614128e7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2124570866?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/138" tvg-id="a8b5b8a400280bdde75021e21c0441c7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/616084904?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="28176ee2c9f40e2ef2344e506f6231de",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1651382056?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/11" tvg-id="19078f7f858db4c7e1d0906036792f8a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2140079897?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/141" tvg-id="8722bb256fd8bd3d1f92b61398e5c4a7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/633021063?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/139" tvg-id="15e770257a6ca23dafe10239cc639e98",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/628156181?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/39" tvg-id="766446a6ad552163c494746ff899dee7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/642147446?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/140" tvg-id="e4ed99a5b29279082f4748521b01127d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/630844900?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/249" tvg-id="2335126b97aa17773206fa18e30b41e2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1796355363?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/94" tvg-id="3768e2a5cbd1de4daa8190cb203c1785",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/635594807?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/211" tvg-id="3ace15a678a20ba2cf38273511956968",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/638963258?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/142" tvg-id="b20a17a6cafcefaa865c1b188184ce18",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/639044274?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/216" tvg-id="560598cfc4285d0717555af26769d100",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1335362902?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/129" tvg-id="eaa3fdd9ac57c87eed921d268994d71f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1509794794?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/197" tvg-id="f894e84475ac7d686edbced543089b1e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1156093176?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/248" tvg-id="ff5c98a793b0863aae4cb614b1887172",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/664296703?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/54" tvg-id="cea854273eb5161cc4ac78427cbd79bb",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/659859662?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/204" tvg-id="fee4c7ae010163b37a893a431c0a36e5",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/784852222?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/143" tvg-id="1e547da74ea8588133cc702ac5fab3de",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/662524958?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/28" tvg-id="13631d7fb0ade9f4a5ee1a0d56a00df9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2132632339?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/221" tvg-id="190524527b0aa120be244b26b6efa051",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1378092313?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/13" tvg-id="790addfb86dac1fc5ae9199cb2ad0aaf",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2078083705?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/178" tvg-id="ae1ffe51ef01c14e3f5158f8ccc67c6c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1375608750?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="e2a09bc9b9ea4eb5a0988751f58bb34c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1234936034?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="6e61cdf8aacc5f6701592f70d0b3a417",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2026725742?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/186" tvg-id="e53993ecfb82d35c35fbfe497d4424d0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1821587941?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="ce8d345c4f3db18787ba5c27d8e04c66",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1546948046?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="37ba61a9aa95a0ed6b8b9a56df0b07de",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/694270519?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="9a9d0968dec0e0d8c74d954f6d4b8e98",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1745460634?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/186" tvg-id="abb0fe48d5cc56bb3901bfe8e8680707",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1224650923?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="45d3e3a99d2a747e7aae76b402399d22",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/702796613?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/148" tvg-id="a29582a960e2f85f0db748e497183309",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/696423842?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/150" tvg-id="4e44952bc08200ffdd1c8f431d5555c3",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/731202638?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="3e461d7bef03f22cde85e34bed3f95a4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2065516094?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="36be2ff7c3e6f157846e49c87a687667",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1999617590?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/149" tvg-id="954a2fab77410cc4863de8bad856feee",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/724519573?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/73" tvg-id="4dba5d6fa54e9efd67df22f762d7115c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1868413517?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/231" tvg-id="d2da5059917b9ef2e2b54ff34dbec635",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1498471122?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/106" tvg-id="bc21cf4eeb322836c8d052359ef60c2a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1322197436?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="8328c7c54e6e475bed69ea521bb32e82",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1170679939?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/151" tvg-id="50a89f2bd5dfac3a1b0bb4fcc95dc556",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/731883600?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/71" tvg-id="5aafad789cc41e34268ef3d78359033e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2024648538?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="9b18db7e6b5c86ced68dd9f32a1e5bb1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2128287899?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/242" tvg-id="c54474acdc88f27dc24cd6370d776c5e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/745817285?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="64e59ecd21892c4917f0925cddd409ff",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1302259044?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/76" tvg-id="fcb6d76e1f867bceda315d229f0222c2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1859630844?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/86" tvg-id="8616cc2d96b704090486aee5727b88bf",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/768349830?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/47" tvg-id="b850ace56cfc969e4271e454a2e9dd27",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1705791672?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/211" tvg-id="7a83854cc8b6543731056af827216c27",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1283818362?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="89f7332e7e4dc90e92a5929e72900b04",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/775157641?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/153" tvg-id="f12e332e36cfb7ecfbe3cbf10194dcba",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/775106289?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/52" tvg-id="8d336f2e118919486b6e3f3ca9d9d6d7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/779039629?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/154" tvg-id="b22f37aeeecd350216c33f12b7de717e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/775368626?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/79" tvg-id="0de47f2e782ea921f7633c5d759f3182",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/780133389?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/15" tvg-id="8f93ce780ac8ee2331d79ec5e0c0f7ab",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2026804111?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/192" tvg-id="c35c9e439fb9c056b654d54cf435fa03",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1134451907?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="488bdb7efc64ceb62dd0aaa068a77342",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2128317256?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/157" tvg-id="2cd51df7bc27aaf7c1abd98e361f6b63",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1998443820?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/185" tvg-id="e449a62f2a67617aa73f4edbc0fbae2e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/799427044?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/123" tvg-id="14329f2f49c8973853e71f8d6ff1f02a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/798962196?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/155" tvg-id="ab2652b023ac94ac491ee382c6a265d1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/810690219?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="7d4fd52f7089c966067addd6addc49df",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/802508669?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/159" tvg-id="3b8128b1505f2a51fec8772090b1343c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/824738107?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="843374b288e896b201004b803e45f388",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/846476164?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/158" tvg-id="711ffcb0263a7cfbf4a636819899b657",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/821829489?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/74" tvg-id="5dc19d720238d8894bf317d738ec0b4e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1922941277?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/120" tvg-id="3e018b6ab50f698197d5cfc4bdb561d9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1787494718?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="6c147cb1d647be70b7abc7e0d5642eda",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/830215276?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/145" tvg-id="415e58b1e065eebae5dd16cee48e007e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/827874881?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/250" tvg-id="8c3b9deb84e89ce50aab68b4e8bfc360",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1805466508?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="e42b263698b157b8138decd535d71213",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/908471268?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/236" tvg-id="a52c1bdf3eb85465f5cd3a9d2728aea4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1595616421?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/223" tvg-id="df117d54e43a5cc9fa5649ad004e9022",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1417482719?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="dd27c432bc3efff61f3f279a6c9774d1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/851716061?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="11bcacb2c521c7ccfe65cf33489b968f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/850181137?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="8a8681b33ad6929603597c914a89603b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/864126602?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/88" tvg-id="c244ec32eced4ccdad7bf30fda0e6345",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/854344898?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/26" tvg-id="2e8970f6818e39ec0be4c629c7bc98d2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1987086638?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/255" tvg-id="1ebf25339ad2539aa4d5bf98bc87a19a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/858111774?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/162" tvg-id="f0b353330230e2b92b5b708957703088",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/861123568?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/69" tvg-id="4b802671ce5d6f5a905cca636603f373",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1898348619?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/104" tvg-id="466b8e4cc2bb9da01ed9ed80fe049b50",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1284401990?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/52" tvg-id="b5b9ebc51d836a3c8f75751187f3737d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1173076405?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/73" tvg-id="100b37b4afc521e6397b5612c9033adf",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/876022544?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/195" tvg-id="cd8db7b3fb83d92cb81fdf56b46a77b1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/867667405?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/48" tvg-id="f18feeb5be8f5fcefc707c071519f8d7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/904826865?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/12" tvg-id="b39596343c9e4d759d1b578641da9620",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/882283955?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/115" tvg-id="3e9ba47029594cac5c958557997540d8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1889835838?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/164" tvg-id="d1c6e2b4c63c2a8c6e7561fc6754514a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/887277265?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/165" tvg-id="6178e434b80475646b06053b78d8db09",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/887388257?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/86" tvg-id="b5e171b5c39313921cc8fd8bcbe34235",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/896655797?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/41" tvg-id="77ed14daa5810a108fed3a55e0d4722a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1511320951?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="ff8592b54f7dd00ee15a72c4b1f04a28",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/898795007?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="1b667bb5915ead71ecba73acf5d084dc",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/897279515?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="c01eeab5f75d29436e3eea2a7ac3ffb4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/904535744?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="a7b5ca354df26d2fbcfb3e94c90536d8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/902477223?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/209" tvg-id="2e389c4946bb3bd406e622206b69ef0a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1234974766?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/142" tvg-id="3aedfec562128e85b88c477552c01be7",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1174334778?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/193" tvg-id="58e2c0430feb79415edd7286c87db6c4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1136714328?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="243a7236297f87f6b63206e8dd593cfd",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/913455652?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/60" tvg-id="e3f0cc36a0d1274c32940b959e5e2483",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/919400675?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/171" tvg-id="638db53858e25fa564e4cea46d413486",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/951422307?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/167" tvg-id="fbf2b3b61e2926a00c3d05e314498eed",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/917762811?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/12" tvg-id="ea80adb9341a56125a27dc469447f5f9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/967672042?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/27" tvg-id="0a9965feccc96586b88c3f5ef5e096f9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2120587530?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="6328a9b722a29782618ae6f34d22c473",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/933832803?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/227" tvg-id="0bd652571f428921f03a04ac5971a14a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1465046539?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/201" tvg-id="b70297c74bc6d64b734e64a35c878e5b",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1201078967?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/169" tvg-id="22869cb8c9a3b2d8b5cd40644f45a62a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/949782050?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/168" tvg-id="e79d4bb8945f4953ee1f1da00e7032ca",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/944479719?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/166" tvg-id="9d99af38e2cddecd0d44f90c815692d0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/951032221?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/170" tvg-id="cfaeacb8e55e58724a07fc236edd548c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/950841039?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/244" tvg-id="44fb2b7b124105f09bf38bddbe65d809",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2066479940?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/198" tvg-id="c25911c6cdcafc51fc0027b83f994d8d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1175542210?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/108" tvg-id="64bfe83825586054d6a947b7ad6e8376",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/954777444?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/26" tvg-id="06b711b9f44419deab496fa39a388ad6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/957462278?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/175" tvg-id="8141783980abc1b01c07239c395f1191",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/964182401?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="b33939b9744bd7edd33cdeae83e6f337",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/960051635?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="b8e20676511e1497ecb6e5f5de146767",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1980162744?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="60a75ab9761779bbb6134f8e694e78e3",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/962242400?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/173" tvg-id="6e305eb9c33e20f5003d4b3950c79d85",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/962474094?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/174" tvg-id="633f75397e1a2179cfd9ce401d27eb64",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/963985251?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/49" tvg-id="e2f95fe0e9ddc5e66f73e35074c2d838",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1616902626?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/195" tvg-id="2517594421193042e9fb2e68818a9462",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1146689317?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/165" tvg-id="3f30cd4213c21a858dc34bdfbb4b90e8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1120743487?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/10" tvg-id="aefb39ba47d0bd8e75f5ba41aeb0fb1d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/976878510?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/123" tvg-id="ec670bba61c08d1a322abbe2108b7507",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/973826028?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/2" tvg-id="8d845fbacb4cc52cac5d40c109e02ee6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/979338381?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/89" tvg-id="c9a63a3a20f74069210d69d808ad2396",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/976922313?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="5a230edcd68d70de128edfb7af00d0fe",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1544430426?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/180" tvg-id="7b6cf73dea588b565853df2048aedf93",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1039625339?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/176" tvg-id="c778fe3a0d4cf3315e66126e0ce1a7b8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/989755591?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/2" tvg-id="d4ed63654cf2ae96828429ddbd26e7a1",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1701047764?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/229" tvg-id="51248f57e3fff560b3ae13c7fb61330f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1468998737?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="566f0dbbc8f88e26820d8fdd9a4391a4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/990736214?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/89" tvg-id="b7f81bbbdb5a9dd0b480b4de09609da3",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/991688887?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="c58322bb18611dc55665e5cc5814c63e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/992117701?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="f6b822bbe200c36cb13cfb65b670976c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/992131318?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/23" tvg-id="0cd39bd4f22a078630ebb3cb87e0e9ac",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1419498252?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/21" tvg-id="55e36076ecd9c02f8946370df5362c12",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1986061141?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/177" tvg-id="033700bc8f44053b255f2e8f9785c50c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1006647043?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/178" tvg-id="7832113cf8a086a2aa72f96cc5c138ff",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1007759992?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="b8615bf74ec1646eb42213e730cddba2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2002477496?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="0b07e2fb672efb183477db32f65edce4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2078410507?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/246" tvg-id="7dff1e69e5d1272691e5423c3038341d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1763639165?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/179" tvg-id="3987f53c8abefa7e23a7598648087343",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1022723897?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/198" tvg-id="3aa08fbd65c8ca774c521f6a34e6436f",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1032822842?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="65c5c33d798a8b155f389e0f8f69a0e9",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1036240229?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/225" tvg-id="0bfdd7d50a53b5f5c7d04e8e5fbfa39c",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1440218379?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/222" tvg-id="31e7057a7a254c9dd42a1dbd795946c0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2047207217?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/119" tvg-id="3c9914be2cef924f3708a0eedad7437e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1041537340?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/181" tvg-id="080e33be469a23fa30cf0607255aa058",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1043533320?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/182" tvg-id="4043773e265db97dcc3f745ac983a2c8",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1048003392?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/118" tvg-id="e2cf733e2d4f6cee4b58e99014cd589e",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1047777250?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/256" tvg-id="a5d50340d81b0c0a5081fff2e863b762",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1073993125?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/183" tvg-id="f5451dbfdbcaacbcb94663d7f35ded42",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1058883061?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="4bcf9f7ebca46882493f619c60bb7ccf",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2124402507?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/69" tvg-id="13ff4478d30e8e04f20bf4d8382eb4ba",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/2017787667?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/88" tvg-id="656baaf5d6b9f042f1f3fd824a068fa0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1974102885?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/184" tvg-id="99024c3f17e7528bad21275c85f91d2a",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1061946009?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="aebe6c3f95d2b2586aefe9bee7c993c2",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1064091310?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="4a0c85bf7d58bce1eb863eb56f5701c0",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1065684042?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="514c0257a7545c576fe95cc152e18b91",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1459768401?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/194" tvg-id="4132784f0a5ea370121f7bfa3a3fb0d4",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1333277249?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/31" tvg-id="39b51fca9c905e679002a06fa429746d",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1243591993?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="6ab27e54db96e4a5ae4c8888c457ea97",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1417589354?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/243" tvg-id="536bfde77a3258d8d440c37589fd88a6",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1744661331?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/186" tvg-id="95552441d44590aba116dd13c52822cf",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1092900245?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/53" tvg-id="6ab04b416042be4b578438e9cd9e0cdb",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1095479402?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/187" tvg-id="c70c5841b83f32e6c25369209457a171",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1096289479?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/8" tvg-id="aab372c20481f0f8172d499a9ae60540",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1114813354?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/189" tvg-id="f939034275ddcb067de36c05fa46bebc",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1107507705?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/157" tvg-id="080e1d4294640b0de2f9367172417316",{name-not-set}
+http://192.168.1.73:9981/stream/channelid/1109200392?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/248" tvg-id="eaea721432ce4fb0cb37b84acb41e2de",1224
+http://192.168.1.73:9981/stream/channelid/343075562?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/104" tvg-id="c4d9c05df8b9dcb5f6c8cc4ed63f9e31",4567
+http://192.168.1.73:9981/stream/channelid/1572919748?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/161" tvg-id="8534d48266e447a78b9e43f53ad9bd4f",50342
+http://192.168.1.73:9981/stream/channelid/47461509?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/118" tvg-id="5e1c65290fb93d69d56916624857c96a",50343
+http://192.168.1.73:9981/stream/channelid/694492254?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/204" tvg-id="ed805a428105989e434ae0dba5109787",50368
+http://192.168.1.73:9981/stream/channelid/1113227501?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/222" tvg-id="1fdccc113604f5e5c3aa9a50b74d56ce",50662
+http://192.168.1.73:9981/stream/channelid/298638367?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/230" tvg-id="fb95d1f28135fa9c9062cb4a4459b5f5",50663
+http://192.168.1.73:9981/stream/channelid/1926338043?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/133" tvg-id="615fd052519994754f082c777d0f0ffd",50666
+http://192.168.1.73:9981/stream/channelid/1389387617?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/145" tvg-id="5c21e3160f96f1143b7ef2ea0b64e842",50682
+http://192.168.1.73:9981/stream/channelid/383983964?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/31" tvg-id="361d9a379b774b1449651bed7172a8ac",50683
+http://192.168.1.73:9981/stream/channelid/932846902?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/253" tvg-id="6151788349bc027c0b90a9bf39cb9f02",50686
+http://192.168.1.73:9981/stream/channelid/58216801?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/254" tvg-id="65977083096a87ac160cf5ff472202e2",52210
+http://192.168.1.73:9981/stream/channelid/57710437?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/255" tvg-id="d5c1f8b7507b6d62db0686bc34d78e7d",52221
+http://192.168.1.73:9981/stream/channelid/939049429?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/256" tvg-id="3bff51ebe59027abf88e581e2092f8c3",52231
+http://192.168.1.73:9981/stream/channelid/1800535867?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/257" tvg-id="c36238a06d4c5d58f02cb9fd73408f70",52240
+http://192.168.1.73:9981/stream/channelid/540566211?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/17" tvg-id="a2877696fb2bf2f6182ac926a9166699",52566
+http://192.168.1.73:9981/stream/channelid/376866722?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/185" tvg-id="70c4e3f22b9a65d6e58240a982b8bf58",55251
+http://192.168.1.73:9981/stream/channelid/1927529584?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/258" tvg-id="1538204d6d001ca443e721f8e3841208",55265
+http://192.168.1.73:9981/stream/channelid/1293957141?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/244" tvg-id="82f174b5965d3aa613da01b75e0826f7",55296
+http://192.168.1.73:9981/stream/channelid/896856450?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/10" tvg-id="ab9404384906cd546464fce038113217",6945
+http://192.168.1.73:9981/stream/channelid/939824299?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/86" tvg-id="902662285e6a48db43a76c36b366edd8",Astra UHD Demo
+http://192.168.1.73:9981/stream/channelid/677521040?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/86" tvg-id="5204e4417c06f839c94cdf12b664ab1a",Astra UHD Demo
+http://192.168.1.73:9981/stream/channelid/1105462354?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/154" tvg-id="761d971fedc846aff1e7b3dce899bbbb",BBC NDRA
+http://192.168.1.73:9981/stream/channelid/529997174?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/15" tvg-id="c173618da2d6f11d172cbdc81c2fd0dc",BBC One HD
+http://192.168.1.73:9981/stream/channelid/224490433?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/2" tvg-id="50aebf3b7d3bae161348dbd413fb9061",BBC One NI HD
+http://192.168.1.73:9981/stream/channelid/1002417744?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/14" tvg-id="30d4d1c593648fb3805b68e624cc2f74",BBC Two HD
+http://192.168.1.73:9981/stream/channelid/1171379248?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/224" tvg-id="eedecb1a148b88a4b2842e818cd56e2a",BT Sport 1
+http://192.168.1.73:9981/stream/channelid/449568494?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/147" tvg-id="02a757e66c6db27b4ffcd2d27dc48cfc",BT Sport 1 HD
+http://192.168.1.73:9981/stream/channelid/1717020418?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/160" tvg-id="1b64bbf775eac4156cf8fee11bcd8803",BT Sport 2
+http://192.168.1.73:9981/stream/channelid/2008769563?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/37" tvg-id="ce22da39b0e1fce7df63c6a53cb4bc19",BT Sport 2 HD
+http://192.168.1.73:9981/stream/channelid/970597070?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/114" tvg-id="f87b9bb32b1c67e1c7de765c1a9e21a8",BT Sport 3
+http://192.168.1.73:9981/stream/channelid/865827832?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/152" tvg-id="45b39eeea2543e2201ef1fb5f0caf1a2",BT Sport 3 HD
+http://192.168.1.73:9981/stream/channelid/1855894341?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/93" tvg-id="6b9560d03fec98e370212327209fb53d",BT Sport Mosaic
+http://192.168.1.73:9981/stream/channelid/1348506987?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/117" tvg-id="433d79f4f8445b6bc881eeb06dc70128",BT Sport//ESPN
+http://192.168.1.73:9981/stream/channelid/1954102595?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/172" tvg-id="529322e76fac8fdb5c3889ce39f20272",BTSpt//ESPNHD
+http://192.168.1.73:9981/stream/channelid/1730319186?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/39" tvg-id="ef0a948ae05808b1813cd49e6f2beeaf",BTSptBoxOffHD
+http://192.168.1.73:9981/stream/channelid/177474287?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/232" tvg-id="990155956123338df7d3fe11937b4feb",c4 l
+http://192.168.1.73:9981/stream/channelid/357892505?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/41" tvg-id="139bcb1a24f6a350622ef02a4f525645",CBBC HD
+http://192.168.1.73:9981/stream/channelid/449551123?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/60" tvg-id="9c554043936701a932c996642961e7f0",CBeebies HD
+http://192.168.1.73:9981/stream/channelid/1128289692?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/106" tvg-id="5723da5ceaa8b52431050818c99e1905",CBS Drama
+http://192.168.1.73:9981/stream/channelid/1557799767?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/69" tvg-id="6b1e743fd8a6b5763c966ff5b29d45a5",CBS Justice
+http://192.168.1.73:9981/stream/channelid/1064574571?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/79" tvg-id="e84ae6f5cc00bbae3f054681f17ce8c6",CBS Reality
+http://192.168.1.73:9981/stream/channelid/1978026728?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="230320a821cc7597900cccbad3e789cb",Channel 4
+http://192.168.1.73:9981/stream/channelid/673186595?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="088d9d1f9d018c1f7838700d604c41a4",Channel 4
+http://192.168.1.73:9981/stream/channelid/530418952?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="fa4dc61580a613f3d60206e7a93ebb32",Channel 4
+http://192.168.1.73:9981/stream/channelid/365317626?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="a4f59f904bfc4a499628291be6d578b9",Channel 4
+http://192.168.1.73:9981/stream/channelid/278918564?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="ae531286f9ff42e94bd53d4ef9feef37",Channel 4
+http://192.168.1.73:9981/stream/channelid/101864366?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="1cd95bbfb2b7d78548395e06d6a01f19",Channel 4
+http://192.168.1.73:9981/stream/channelid/1062983964?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="c71990fb5d9b0bd182a48909a0cc8e9d",Channel 4
+http://192.168.1.73:9981/stream/channelid/2073041351?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="da4794260f11745975684f384227bb60",Channel 4+1
+http://192.168.1.73:9981/stream/channelid/647251930?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="b897af2158cef92c39013167f0fe7d1f",Channel 4+1
+http://192.168.1.73:9981/stream/channelid/565155768?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="2867bd4ce3a6b350611529bdb94dcc9d",Channel 4+1
+http://192.168.1.73:9981/stream/channelid/1287481128?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="18265495512a9828a54fcc40d7fde7d0",Channel 4+1
+http://192.168.1.73:9981/stream/channelid/357836312?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="afcf425d7c63b9810204b93ceb2ad6b3",Channel 4+1
+http://192.168.1.73:9981/stream/channelid/1564659631?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/52" tvg-id="322f5d93ee983eec00dd818e31e21f28",Channel 5
+http://192.168.1.73:9981/stream/channelid/324874034?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/210" tvg-id="529d364d862dfe764f319c2e0bece38f",D1 DAB
+http://192.168.1.73:9981/stream/channelid/1295424850?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/66" tvg-id="39a82fab62f92900893b1ed435e4c6bf",Dave
+http://192.168.1.73:9981/stream/channelid/724543545?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/64" tvg-id="5e255633f9b3801b1d84166996528641",Discovery
+http://192.168.1.73:9981/stream/channelid/861283678?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/65" tvg-id="983d60680cb72db88dfe4d1736be5c80",DMAX
+http://192.168.1.73:9981/stream/channelid/1751137688?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/186" tvg-id="16fcd94a5b94817e063c53b59fd72f89",Drama
+http://192.168.1.73:9981/stream/channelid/1255799830?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="312b48b1943ff4d260a2c694750eb40b",E4
+http://192.168.1.73:9981/stream/channelid/826813233?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="ef068ab0e9b2a04ee446c2b3fcff42db",E4
+http://192.168.1.73:9981/stream/channelid/814352111?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="eba1a618f704b4801f58b8aecedc481c",E4+1
+http://192.168.1.73:9981/stream/channelid/413573611?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="7d3a9397847579199cff818d2ac3747e",E4+1
+http://192.168.1.73:9981/stream/channelid/395524733?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="917b90719c685f9fe64b3c5cfd299b26",Film4
+http://192.168.1.73:9981/stream/channelid/1905294225?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="b7df74f16dc79eb055504672964b2cc7",Film4
+http://192.168.1.73:9981/stream/channelid/1903484855?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/76" tvg-id="31f839a078cd82e6d019ff3a911e817a",Food Network
+http://192.168.1.73:9981/stream/channelid/540670001?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/192" tvg-id="c571a7de25829d1d24edc46b431b58e2",H1Test
+http://192.168.1.73:9981/stream/channelid/1588031941?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/157" tvg-id="5c9a27f6e80dd2bf10e9442ce0da42a2",HGTV
+http://192.168.1.73:9981/stream/channelid/1982306908?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/94" tvg-id="f654e4e74bd286cdddebd3f3c643cf0e",Hi-Impact TV
+http://192.168.1.73:9981/stream/channelid/1743017206?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/211" tvg-id="ceede1fb3fabb283572d2e51afe6212f",ID
+http://192.168.1.73:9981/stream/channelid/2078404046?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/57" tvg-id="c260d427fc3aa3c47f3c43259b512850",ITV
+http://192.168.1.73:9981/stream/channelid/668229826?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/47" tvg-id="632b796caa38396dad1432d2f4656271",ITV +1
+http://192.168.1.73:9981/stream/channelid/1819880291?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="b4181af4d1154ee4225c11dfc84a8cb7",ITV HD
+http://192.168.1.73:9981/stream/channelid/1947867316?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="7f4e6429e6f9c18a245aeec6849d5c9c",ITV HD
+http://192.168.1.73:9981/stream/channelid/694439551?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="c772af20688db77bf8d9ef8c4f797d3a",ITV HD
+http://192.168.1.73:9981/stream/channelid/548369095?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="35a13486b41ef02ff56f598added198a",ITV HD
+http://192.168.1.73:9981/stream/channelid/104112437?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="7981c28536900c8acdd32e73b692ce95",ITV HD
+http://192.168.1.73:9981/stream/channelid/96633209?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/40" tvg-id="514e0ff39c3ec5e2c3804cf789d5463b",ITV HD
+http://192.168.1.73:9981/stream/channelid/1930382929?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/61" tvg-id="ff01737dca934e1ff90cac8aa19121ec",ITV2
+http://192.168.1.73:9981/stream/channelid/2104689151?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/53" tvg-id="f33e7761f5bd4b2a0e74dd733f0b5db4",ITV3
+http://192.168.1.73:9981/stream/channelid/1635204851?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/54" tvg-id="e41746ea8e2c5085fad193cb4dfb0186",ITV4
+http://192.168.1.73:9981/stream/channelid/1782978532?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="424fcfa8a89ac585d2d86718a0eeef07",More 4
+http://192.168.1.73:9981/stream/channelid/684674882?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="22f526c6403982a8e521fca04dcb72bc",More4
+http://192.168.1.73:9981/stream/channelid/1176958242?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/150" tvg-id="e4da3995f40651289083348bea2b17b2",MTV
+http://192.168.1.73:9981/stream/channelid/356113124?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/30" tvg-id="9a773b3c7fe126e32014dec306766fa2",PPV
+http://192.168.1.73:9981/stream/channelid/1010530202?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="492f59241b026bc1fbcc8519b2feb529",Premier 1 HD
+http://192.168.1.73:9981/stream/channelid/609824585?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="19efe0aeb1aba8c6588cfaff5d5e63b0",Premier 1 HD
+http://192.168.1.73:9981/stream/channelid/786493209?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="36c3d1e57ad46ccc4dcbbc85c18f39c1",Premier 1 HD
+http://192.168.1.73:9981/stream/channelid/1708245814?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="46779a1eaf9c638fffc32e8f366ed022",Premier 2 HD
+http://192.168.1.73:9981/stream/channelid/513439558?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="cd593f4deabd0ced98ecd8464389f540",Premier 2 HD
+http://192.168.1.73:9981/stream/channelid/1295997389?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="4c16e34f5dbbb68ba3f36b34f2ed8912",Premier 2 HD
+http://192.168.1.73:9981/stream/channelid/1340282444?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/178" tvg-id="d987157130af0eabccc01e858012d6d2",Quest Red
+http://192.168.1.73:9981/stream/channelid/1897236441?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/115" tvg-id="0e635f6e6c6f63a53cf73cbee87935d7",RB
+http://192.168.1.73:9981/stream/channelid/1851745038?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/89" tvg-id="84d098099692e98356b5eb08faa1ee73",Really
+http://192.168.1.73:9981/stream/channelid/161009796?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/28" tvg-id="7661508303bae87d04878363f345b471",RT HD
+http://192.168.1.73:9981/stream/channelid/55599478?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/5" tvg-id="747c5851ce2e84232f7f8b6f67e9814d",RTOne HD
+http://192.168.1.73:9981/stream/channelid/1364753524?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/251" tvg-id="319ed9145fa5159a70d69532157bb1aa",SDL nATL
+http://192.168.1.73:9981/stream/channelid/349806129?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/87" tvg-id="8c447cad721dbdb285cfe0edf4b58482",SES UHD Demo
+http://192.168.1.73:9981/stream/channelid/763118732?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/142" tvg-id="8d29e15922fe182f421ecbf2619644d9",Sky News HD
+http://192.168.1.73:9981/stream/channelid/1507928461?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="6fe8da1c39c7fff513f662c666253285",SkyShowcaseHD
+http://192.168.1.73:9981/stream/channelid/484108399?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="860554162d6cb948d4c952b332d970b7",SkyShowcaseHD
+http://192.168.1.73:9981/stream/channelid/374605190?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/108" tvg-id="d2817ef3f29570d7f4d527f2b1029816",SkySp DartsHD
+http://192.168.1.73:9981/stream/channelid/1937670610?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/194" tvg-id="9f90ecead6b406f8137b187ef9900f2f",SkySp F'ball HD
+http://192.168.1.73:9981/stream/channelid/1793888415?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/26" tvg-id="39ca01568c1b1adfc872be1d673e32fa",SkySp F1 HD
+http://192.168.1.73:9981/stream/channelid/1442957881?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/129" tvg-id="8dcc248950533c3d21a7ac90221ace9b",SkySp Golf HD
+http://192.168.1.73:9981/stream/channelid/153406605?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/123" tvg-id="cfb8a242e4ec38d91969edda3d6054d4",SkySp Mix HD
+http://192.168.1.73:9981/stream/channelid/1117960399?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="438373c0974d8186794c1364629a3cc9",SkySp News HD
+http://192.168.1.73:9981/stream/channelid/1081312067?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="7c485f249194c8e5df5978218fb06ed7",SkySp News HD
+http://192.168.1.73:9981/stream/channelid/610224252?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="166fb311b1d9fa0ded5bc7e9e3b69e4b",SkySp News HD
+http://192.168.1.73:9981/stream/channelid/296972054?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/198" tvg-id="3d1ca7b1c4ec2e1657c241a415138681",SkySp NFL HD
+http://192.168.1.73:9981/stream/channelid/833035325?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="f485a3495e77d68339422910a4f42522",SkySp PL HD
+http://192.168.1.73:9981/stream/channelid/1235453428?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="0254716a6c3845b68d89128001afcf69",SkySp PL HD
+http://192.168.1.73:9981/stream/channelid/1785811970?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="fa62ba745366cf84e9bc8a273e764998",SkySp PL HD
+http://192.168.1.73:9981/stream/channelid/1958372090?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="2c5f86903d2e37fd76cd8149e7434c36",SkySp PL HD
+http://192.168.1.73:9981/stream/channelid/277241644?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/120" tvg-id="caddd4fc9896454a7fdb8dd4ac0f6f63",SkySp Racing HD
+http://192.168.1.73:9981/stream/channelid/2094325194?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/12" tvg-id="5bcbd2aaa480bd802f9bfbec42e837cf",SkySpCricket HD
+http://192.168.1.73:9981/stream/channelid/718457691?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="1eafa34a376c6ad777cd61811a4447e9",SkySpMainEvHD
+http://192.168.1.73:9981/stream/channelid/1252241182?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="2e27295482d702e0f72608cb594c1768",SkySpMainEvHD
+http://192.168.1.73:9981/stream/channelid/1411983150?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="8104d58f77ec2e2469cfc537d805f3ac",SkySpMainEvHD
+http://192.168.1.73:9981/stream/channelid/265618561?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/103" tvg-id="680e94a353f12b1fffc536192bc131cb",SNR
+http://192.168.1.73:9981/stream/channelid/596905576?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="a45dc6f78b1cc5d9463c3f09ec9e7454",STV HD
+http://192.168.1.73:9981/stream/channelid/2009488804?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="0019dba0f69df014d828f681cb243fff",STV HD
+http://192.168.1.73:9981/stream/channelid/551229696?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="9299437e675966db40919d577d008b8c",STV HD
+http://192.168.1.73:9981/stream/channelid/2118359442?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/1" tvg-id="8bf3f4646e45fbeccc1069d2f38ddf82",STV HD
+http://192.168.1.73:9981/stream/channelid/1693774731?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/195" tvg-id="68512211bac9d9bef8dfafbedcea7565",TG4 HD
+http://192.168.1.73:9981/stream/channelid/287461736?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/165" tvg-id="6cfa6c3a3cddb57c19a981e911837e12",TLC
+http://192.168.1.73:9981/stream/channelid/980220524?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/73" tvg-id="6f227d0c308ac4ba868c9ed5147e0ebd",TRP 1
+http://192.168.1.73:9981/stream/channelid/209527407?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/85" tvg-id="96572c7e0ede56314624537dcec8f95c",UH1MON
+http://192.168.1.73:9981/stream/channelid/2116835222?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/260" tvg-id="3d0b5129e8f49bfc074549427ec5587b",Ultra HD
+http://192.168.1.73:9981/stream/channelid/693177149?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/270" tvg-id="53565429944f7cb4d05638d643de41f3",Ultra HD
+http://192.168.1.73:9981/stream/channelid/693392979?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/269" tvg-id="8a85895f0097251845d4c48c1a0c630b",Ultra HD
+http://192.168.1.73:9981/stream/channelid/1602848138?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/88" tvg-id="20f35ad1f3e47e7fe2a2671749df7ee4",US1MON
+http://192.168.1.73:9981/stream/channelid/1364914976?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/84" tvg-id="d1abc9ab4d98b5701af3537db408661e",US2MON
+http://192.168.1.73:9981/stream/channelid/734637009?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/182" tvg-id="413d22f9f7855ae8d9e90fc51caaf83b",UTV HD
+http://192.168.1.73:9981/stream/channelid/2032287041?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/242" tvg-id="9195dcf62e3ac34d5c5fe75470430c0c",Virgin One HD
+http://192.168.1.73:9981/stream/channelid/1994167697?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/159" tvg-id="fbae377413d4f67c66d617c50afe9cae",Virgin Two HD
+http://192.168.1.73:9981/stream/channelid/1949806331?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/46" tvg-id="3d8511cbb1d425e4f52573f55719da4a" tvg-chno="104",Channel 4
+http://192.168.1.73:9981/stream/channelid/1259439421?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/19" tvg-id="06fd89deb0cb406c5e00ea09e6f94ae2" tvg-chno="106",SkyShowcaseHD
+http://192.168.1.73:9981/stream/channelid/1586101510?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/32" tvg-id="fd0723805f05357f8223ab132b4ed47c" tvg-chno="107",Sky Witness HD
+http://192.168.1.73:9981/stream/channelid/2295805?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/111" tvg-id="d517c273bd6193dc0fab6766c0fdbc63" tvg-chno="108",Sky Atlantic HD
+http://192.168.1.73:9981/stream/channelid/1942099925?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/206" tvg-id="aa1af04a7889ed789fe286d4d3bff558" tvg-chno="109",W HD
+http://192.168.1.73:9981/stream/channelid/1257249450?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/130" tvg-id="3aa0e351a74f6fe8b457c4137026c986" tvg-chno="110",GOLD HD
+http://192.168.1.73:9981/stream/channelid/1373872186?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/136" tvg-id="10d1f8093abea1b0712de7cacfc12dfd" tvg-chno="111",Dave HD
+http://192.168.1.73:9981/stream/channelid/167301392?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/24" tvg-id="df82a05f6026baa23fdaf790086b98f0" tvg-chno="112",ComedyCentHD
+http://192.168.1.73:9981/stream/channelid/1604354783?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/208" tvg-id="74c44180451141f9b31ff10a6e07c818" tvg-chno="113",Sky Max HD
+http://192.168.1.73:9981/stream/channelid/4310132?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/119" tvg-id="a15fdaa476fef35de44f0f152c2b45af" tvg-chno="114",Sky Comedy HD
+http://192.168.1.73:9981/stream/channelid/618291105?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/15" tvg-id="fd56f130b144503140b53cebf6a001f1" tvg-chno="115",BBC One HD
+http://192.168.1.73:9981/stream/channelid/821122813?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/151" tvg-id="4581e468315ebcc5c8076e1b24827431" tvg-chno="120",ITV4 HD
+http://192.168.1.73:9981/stream/channelid/1759805765?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/233" tvg-id="e93ba3e5b4468457cf2479d00c2f1f33" tvg-chno="121",SkyDocmntrsHD
+http://192.168.1.73:9981/stream/channelid/1705196521?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/42" tvg-id="139b49ca1860a9b90c9ff1069a54edf8" tvg-chno="122",Sky Crime HD
+http://192.168.1.73:9981/stream/channelid/1246337811?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/9" tvg-id="418acf5931b93abbc43258f01c82580c" tvg-chno="123",Sky HistoryHD
+http://192.168.1.73:9981/stream/channelid/1506773569?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/237" tvg-id="04c0c7476e18d670a809dba0ba984cee" tvg-chno="124",Sky Nature HD
+http://192.168.1.73:9981/stream/channelid/1204273156?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/169" tvg-id="4ec98af1c3835e9ccf77cc2252e75c9b" tvg-chno="125",Discovery HD
+http://192.168.1.73:9981/stream/channelid/1904920910?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/21" tvg-id="d0c63a7e0f3c5224a44d32316fd99872" tvg-chno="126",MTV HD
+http://192.168.1.73:9981/stream/channelid/2117781200?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/109" tvg-id="a1b1c4995ccc320cbcd2446c9de9a588" tvg-chno="127",ComedyXtra
+http://192.168.1.73:9981/stream/channelid/432320929?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/13" tvg-id="14111978ce6acfa12b8c7499a91ab6af" tvg-chno="129",Nat Geo HD
+http://192.168.1.73:9981/stream/channelid/2014908692?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/217" tvg-id="99334ce5139e0ab410755de306c488ea" tvg-chno="130",Sky Arts HD
+http://192.168.1.73:9981/stream/channelid/1699492761?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/197" tvg-id="1e8362419302b0e4c935c0c575695c5a" tvg-chno="132",alibi HD
+http://192.168.1.73:9981/stream/channelid/1096975134?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/38" tvg-id="96a1a162a27b27c636f8d270a27634cf" tvg-chno="133",TLC HD
+http://192.168.1.73:9981/stream/channelid/1654759830?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/63" tvg-id="dcabcbe797c7097684474c8020fdbf0d" tvg-chno="134",S4C
+http://192.168.1.73:9981/stream/channelid/1741401052?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/212" tvg-id="8e428e48acca94e3bc91b197eb9ed6d4" tvg-chno="135",E4 HD
+http://192.168.1.73:9981/stream/channelid/1217282702?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/122" tvg-id="44bce0d7e2933760414c59bdaaaf1d1c" tvg-chno="136",More4 HD
+http://192.168.1.73:9981/stream/channelid/1474346052?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/62" tvg-id="c5940fc1a3221450e5d877c3b07f746f" tvg-chno="137",4seven
+http://192.168.1.73:9981/stream/channelid/1091540165?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/166" tvg-id="c42baa3623a77a1f28e5cccac8ff00c8" tvg-chno="138",Channel 4 HD
+http://192.168.1.73:9981/stream/channelid/917121988?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/76" tvg-id="5da6bcd3fb04be7bd14eb4e37defa2c3" tvg-chno="140",Food Network
+http://192.168.1.73:9981/stream/channelid/1404872285?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/89" tvg-id="9f5bfe2192765a1bd6b7edd5ab666781" tvg-chno="142",Really
+http://192.168.1.73:9981/stream/channelid/570317727?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/186" tvg-id="42d7eb887eebd834d5c6bff690ac32ed" tvg-chno="143",Drama
+http://192.168.1.73:9981/stream/channelid/149673794?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/135" tvg-id="100a1be037c818f4b7604900f6818d8a" tvg-chno="144",QUEST
+http://192.168.1.73:9981/stream/channelid/1612384784?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/79" tvg-id="5d4049d143bfc69d01ee08ba5ffb5ca5" tvg-chno="146",CBS Reality
+http://192.168.1.73:9981/stream/channelid/1363755101?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/106" tvg-id="e921ad0f93d8a9c915c681de274e9176" tvg-chno="147",CBS Drama
+http://192.168.1.73:9981/stream/channelid/263004649?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/69" tvg-id="4c1a603322be945751734c4115ce80a0" tvg-chno="148",CBS Justice
+http://192.168.1.73:9981/stream/channelid/861936204?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/178" tvg-id="07ace30551d06bd68adde38328a65f86" tvg-chno="149",Quest Red
+http://192.168.1.73:9981/stream/channelid/98806791?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/223" tvg-id="68d3e62dbcd3f040530f8e5c62a4b491" tvg-chno="151",E! HD
+http://192.168.1.73:9981/stream/channelid/770102120?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/33" tvg-id="3b8ecdc5fa614dd9747b2c40145a58c7" tvg-chno="152",SYFY HD
+http://192.168.1.73:9981/stream/channelid/1171099195?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/211" tvg-id="3d2140167a8ddf90baf1c154168edc54" tvg-chno="154",ID
+http://192.168.1.73:9981/stream/channelid/373301565?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/189" tvg-id="3468bb02daf1332a3f5a13b5e53fdf03" tvg-chno="155",YESTERDAY
+http://192.168.1.73:9981/stream/channelid/45836340?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/131" tvg-id="5f8043036614d172102adb04e473b4c6" tvg-chno="156",Crime+Inv HD
+http://192.168.1.73:9981/stream/channelid/54755423?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/68" tvg-id="7aabb0d2cfe011a1c3343f00c1a90ba5" tvg-chno="157",GREAT! tv
+http://192.168.1.73:9981/stream/channelid/1387309946?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/157" tvg-id="fece5904a70c1de5ac8c8985ba83a93d" tvg-chno="158",HGTV
+http://192.168.1.73:9981/stream/channelid/72994558?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/219" tvg-id="5f5ecebdc3a696a8e183c9f7cbf7b826" tvg-chno="161",Disc.Turbo
+http://192.168.1.73:9981/stream/channelid/1036934751?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/234" tvg-id="1931e1f404a7a1018b874e99c4342f03" tvg-chno="162",Animal Planet
+http://192.168.1.73:9981/stream/channelid/1960915225?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/11" tvg-id="e3b102a245c9f9d6138cb6c24d4951f3" tvg-chno="163",SkyHistory2HD
+http://192.168.1.73:9981/stream/channelid/570601955?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/214" tvg-id="9e4cc9b44ff4ece7fea1f014afcbc40c" tvg-chno="165",NatGeoWild HD
+http://192.168.1.73:9981/stream/channelid/885607582?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/143" tvg-id="c31a3c0799d6affb28fc8140d66b6c80" tvg-chno="166",Eden
+http://192.168.1.73:9981/stream/channelid/121379523?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/80" tvg-id="54149a2945640a412a963a2a99739b0a" tvg-chno="167",Disc.Science
+http://192.168.1.73:9981/stream/channelid/697963604?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/65" tvg-id="bd36a5e2352a8c775922c5e3db22e410" tvg-chno="172",DMAX
+http://192.168.1.73:9981/stream/channelid/1654994621?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/226" tvg-id="6c739f7c42ce8c152ca7701092e10357" tvg-chno="174",PBS America
+http://192.168.1.73:9981/stream/channelid/2090824556?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/216" tvg-id="faec6774a6bfab653e1d077be9178bdb" tvg-chno="177",Disc.History
+http://192.168.1.73:9981/stream/channelid/1952967930?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/156" tvg-id="0ac7410931804a3975795969d4a5380d" tvg-chno="191",Ayozat TV
+http://192.168.1.73:9981/stream/channelid/155305738?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/177" tvg-id="39a42b01c16bc70ace11f38db22f3b69" tvg-chno="195",Local TV
+http://192.168.1.73:9981/stream/channelid/19637305?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/51" tvg-id="b3ec0fcdd2c8b8c6288b620069fa2a4e" tvg-chno="204",Channel 4+1
+http://192.168.1.73:9981/stream/channelid/1292889267?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/138" tvg-id="3b87e46a11b89947b4049bd3f26b84dd" tvg-chno="209",W+1
+http://192.168.1.73:9981/stream/channelid/1793361723?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/243" tvg-id="ca615c8cb46063a85385a4ea18a445ae" tvg-chno="210",GOLD+1
+http://192.168.1.73:9981/stream/channelid/207380938?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/127" tvg-id="895134fa31a41d395af02690831380fd" tvg-chno="211",Dave ja vu
+http://192.168.1.73:9981/stream/channelid/2050249097?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/95" tvg-id="4651aa5cc576f449b00098efdd4ae0e5" tvg-chno="225",Discovery+1
+http://192.168.1.73:9981/stream/channelid/1554665798?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/124" tvg-id="d0534943ceb4f23a934ac2485e652316" tvg-chno="232",alibi+1
+http://192.168.1.73:9981/stream/channelid/1128879056?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/249" tvg-id="23cc4299d0d576041bf9d209baff7e62" tvg-chno="233",TLC+1
+http://192.168.1.73:9981/stream/channelid/423808035?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/59" tvg-id="e47b014cedaee84d9c7d336b39168f9a" tvg-chno="235",E4+1
+http://192.168.1.73:9981/stream/channelid/1275165668?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/50" tvg-id="2896da7b7cb37cc18a30a431921ad494" tvg-chno="236",More4+1
+http://192.168.1.73:9981/stream/channelid/2077922856?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/96" tvg-id="173459fac7f223b5f0f2ed9bc4c06ab2" tvg-chno="240",Food Netwrk+1
+http://192.168.1.73:9981/stream/channelid/2052666391?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/168" tvg-id="ef79041c96bd63d9d5cd024cdd3be723" tvg-chno="243",Drama+1
+http://192.168.1.73:9981/stream/channelid/470055407?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/181" tvg-id="039ae124752554176e9ec623f9590e63" tvg-chno="244",QUEST+1
+http://192.168.1.73:9981/stream/channelid/618764803?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/170" tvg-id="823ad4e38c17a635fb02fcf3775f1295" tvg-chno="246",CBS Reality+1
+http://192.168.1.73:9981/stream/channelid/1674852994?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/241" tvg-id="35a5584c656a1a028bfe0fc9bea6ef38" tvg-chno="249",Quest Red+1
+http://192.168.1.73:9981/stream/channelid/1280877877?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/100" tvg-id="b242dd0cc6bbbaa222e80404ff3d1493" tvg-chno="254",ID+1
+http://192.168.1.73:9981/stream/channelid/215827122?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/225" tvg-id="d647eb7e03709948780dd513dbc83372" tvg-chno="255",YESTERDAY+1
+http://192.168.1.73:9981/stream/channelid/2129348566?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/229" tvg-id="d591dfd0819e1b6ed81ef3d188a4afe2" tvg-chno="257",GREAT! tv+1
+http://192.168.1.73:9981/stream/channelid/1356829141?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/110" tvg-id="158b7e8f8f56185d9de4735666303b4b" tvg-chno="258",HGTV+1
+http://192.168.1.73:9981/stream/channelid/259951381?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/171" tvg-id="fa7e03e7b6dc73f419677113f45b99c7" tvg-chno="261",Disc.Turbo+1
+http://192.168.1.73:9981/stream/channelid/1728282362?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/218" tvg-id="640aeb0cca7082e08e598104898aef95" tvg-chno="262",Animal Plnt+1
+http://192.168.1.73:9981/stream/channelid/216730212?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/70" tvg-id="3ae7fc2335323c2cb675f4d9ac63ccf6" tvg-chno="266",Eden+1
+http://192.168.1.73:9981/stream/channelid/603776826?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/140" tvg-id="741b5ade0f41a8094be3168031814a46" tvg-chno="267",Disc.Sci+1
+http://192.168.1.73:9981/stream/channelid/1582963572?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/91" tvg-id="3b2c7dfee77c08770b0e76c355a90367" tvg-chno="272",DMAX+1
+http://192.168.1.73:9981/stream/channelid/2122132539?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/220" tvg-id="b73a9d310c6815fe6ba131584fed4c89" tvg-chno="277",Disc.History+1
+http://192.168.1.73:9981/stream/channelid/832387767?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/153" tvg-id="34bfc09e1e2c416bb6143561460b4f8d" tvg-chno="302",WizardingWldHD
+http://192.168.1.73:9981/stream/channelid/515948340?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/25" tvg-id="5f4a5276bdd73a6bf7ce7ae9dd9d5a92" tvg-chno="305",SkyAnimationHD
+http://192.168.1.73:9981/stream/channelid/1985104479?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/36" tvg-id="bc331c01a44cfc55f3a3b1488432c69d" tvg-chno="310",Sky Hits HD
+http://192.168.1.73:9981/stream/channelid/18625468?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/128" tvg-id="7ebd46d0809cba8cfd36d034746357a5" tvg-chno="311",Sky ScFi/HorHD
+http://192.168.1.73:9981/stream/channelid/1346813310?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/8" tvg-id="d1a85da4875876eb5ca87a000d1b776c" tvg-chno="313",Film4 HD
+http://192.168.1.73:9981/stream/channelid/610117841?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/245" tvg-id="1dfa7bfa72772284208d0f83ccd86c60" tvg-chno="314",Film4+1
+http://192.168.1.73:9981/stream/channelid/2054945309?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/190" tvg-id="1c33d8a4173b68d3f1151d3a4744759d" tvg-chno="317",horror channel
+http://192.168.1.73:9981/stream/channelid/618148636?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/227" tvg-id="fa254cdbd0704c28742a2ecce4a6cc3e" tvg-chno="318",horror ch+1
+http://192.168.1.73:9981/stream/channelid/1531717114?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/205" tvg-id="66b1013f4d50c8fb751304f05d151f22" tvg-chno="319",Great! Xmas
+http://192.168.1.73:9981/stream/channelid/1057075558?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/116" tvg-id="a4eefa320b2471b282a52116517dea0f" tvg-chno="320",Great! Xmas+1
+http://192.168.1.73:9981/stream/channelid/855305892?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/71" tvg-id="bc06d72b93c96d3d9f534447ad01a654" tvg-chno="321",GREAT! movies
+http://192.168.1.73:9981/stream/channelid/735512252?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/81" tvg-id="a806d1169083f8582df304c5c41d3939" tvg-chno="322",GREAT! movies+1
+http://192.168.1.73:9981/stream/channelid/382797480?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/83" tvg-id="0f49d4f149c14663d18fb9e8d539bc48" tvg-chno="323",GREAT! action
+http://192.168.1.73:9981/stream/channelid/1909737743?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/92" tvg-id="79eaba4d8e2411d60689fb7efa0fabd1" tvg-chno="324",GREAT!action+1
+http://192.168.1.73:9981/stream/channelid/1304095353?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/179" tvg-id="b1f5d7681519d8be46ba327efd2aac81" tvg-chno="352",MTV BASE
+http://192.168.1.73:9981/stream/channelid/1758983601?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/183" tvg-id="e5920d1ce49d4d45bc865c7bc653a14d" tvg-chno="353",MTV XMAS
+http://192.168.1.73:9981/stream/channelid/470651621?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/174" tvg-id="1968c7210473211314dab511908fbfe8" tvg-chno="359",Trace Xmas
+http://192.168.1.73:9981/stream/channelid/566716441?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/99" tvg-id="80dc79e7c26be9749f95b6d9a065e27d" tvg-chno="360",Trace Vault
+http://192.168.1.73:9981/stream/channelid/1736039552?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/20" tvg-id="bb6461b5b27bc0c3e1ffcee461ae02a3" tvg-chno="409",SkySp News HD
+http://192.168.1.73:9981/stream/channelid/895575227?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/215" tvg-id="6cc3688ebe263a0f0991fc0be16c6d26" tvg-chno="410",Eurosport 1 HD
+http://192.168.1.73:9981/stream/channelid/241746796?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/162" tvg-id="799ab7029078a891545d2d5a8d3c783d" tvg-chno="411",Eurosport 2 HD
+http://192.168.1.73:9981/stream/channelid/45587065?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/3" tvg-id="0cb0e4f5df4a061ee99ee00c16e980ed" tvg-chno="412",Premier 1 HD
+http://192.168.1.73:9981/stream/channelid/1977921548?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/224" tvg-id="c88344a1ca398b0e039ccff4973dd75c" tvg-chno="413",BT Sport 1
+http://192.168.1.73:9981/stream/channelid/558138312?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/160" tvg-id="9e0aa5a3d4fcd42099fd108e208c29d9" tvg-chno="414",BT Sport 2
+http://192.168.1.73:9981/stream/channelid/598018718?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/123" tvg-id="a76eec9cfd22aebd2dadc640d098af94" tvg-chno="416",SkySp Mix HD
+http://192.168.1.73:9981/stream/channelid/485256871?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/114" tvg-id="3b63f422167db869b27016b6bcf007b5" tvg-chno="417",BT Sport 3
+http://192.168.1.73:9981/stream/channelid/586441531?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/200" tvg-id="5d45e9dd6b3239de38b7fbf198857435" tvg-chno="418",MUTV HD
+http://192.168.1.73:9981/stream/channelid/1575568733?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/4" tvg-id="17304a6d694499d098e5c45b88add018" tvg-chno="421",Premier 2 HD
+http://192.168.1.73:9981/stream/channelid/1833578519?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/247" tvg-id="aa60612cd65d3aff3af24e0cf9e49ef3" tvg-chno="422",FreeSports HD
+http://192.168.1.73:9981/stream/channelid/744579242?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/117" tvg-id="4d78776eb449af386f5ae18ba55de239" tvg-chno="423",BT Sport//ESPN
+http://192.168.1.73:9981/stream/channelid/1853323341?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/246" tvg-id="31c03a5e785e21c7dde5c1927f004d39" tvg-chno="425",LFCTV HD
+http://192.168.1.73:9981/stream/channelid/1580908593?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/193" tvg-id="2d1e8bf34704113973c848743509a4a3" tvg-chno="427",LaLigaTV HD
+http://192.168.1.73:9981/stream/channelid/1938497069?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/175" tvg-id="af5d60af47cc7a95562a3386674960cc" tvg-chno="437",SportyStuff HD
+http://192.168.1.73:9981/stream/channelid/794844591?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/261" tvg-id="6322d8bcbe25ef45ffa924ceb035a100" tvg-chno="492",SkySpBoxOffHD
+http://192.168.1.73:9981/stream/channelid/1020797539?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/262" tvg-id="3f2a952d8844c32042eeb3dfedc4178d" tvg-chno="494",BTSBoxOff2HD
+http://192.168.1.73:9981/stream/channelid/764750399?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/142" tvg-id="bef8042fd34365718e50cbc28237716b" tvg-chno="501",Sky News HD
+http://192.168.1.73:9981/stream/channelid/788854974?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/132" tvg-id="63eda95613fb4baddc6b9b5cb6e1e214" tvg-chno="502",Bloomberg HD
+http://192.168.1.73:9981/stream/channelid/1453976931?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/22" tvg-id="08f0a4c8f1fcf7b6e3443114f0f75f73" tvg-chno="512",FRANCE 24 HD
+http://192.168.1.73:9981/stream/channelid/1218768904?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/23" tvg-id="e0ae6805fc5363a3f372e9ca85f5aa57" tvg-chno="515",GB News HD
+http://192.168.1.73:9981/stream/channelid/90746592?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/188" tvg-id="79cfc6c6e2cbcf12a0a9b5176060cc08" tvg-chno="583",DAYSTAR HD
+http://192.168.1.73:9981/stream/channelid/1187434361?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/35" tvg-id="ae5d8dd98abaacec9760573284162e20" tvg-chno="585",LoveWorld HD
+http://192.168.1.73:9981/stream/channelid/1502436782?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/77" tvg-id="00658f36825518e42dbce38393a22bce" tvg-chno="587",Word Network
+http://192.168.1.73:9981/stream/channelid/915367168?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/74" tvg-id="e81821a1d3ce8c0af6cee62b44cbf63f" tvg-chno="590",KICC TV
+http://192.168.1.73:9981/stream/channelid/555817192?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/238" tvg-id="30b262d0f4106f530d44c8daa577096f" tvg-chno="598",New Media HD
+http://192.168.1.73:9981/stream/channelid/1348645424?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/163" tvg-id="640bddbe01093c5991a1ed8c4075b22f" tvg-chno="601",Cartoon Net HD
+http://192.168.1.73:9981/stream/channelid/1054673764?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/7" tvg-id="5adb6e291bb02aabc45c9b79079d77f5" tvg-chno="603",Boomerang HD
+http://192.168.1.73:9981/stream/channelid/695130970?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/164" tvg-id="711fef567895c2a5852d89d53269e796" tvg-chno="604",NickelodeonHD
+http://192.168.1.73:9981/stream/channelid/1458511729?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/176" tvg-id="ea92b59ba751d276b7d0734cdf85aacc" tvg-chno="606",Nick Jr. HD
+http://192.168.1.73:9981/stream/channelid/464884458?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/67" tvg-id="916f8261c852668530e4cf63a485cf6e" tvg-chno="614",POP
+http://192.168.1.73:9981/stream/channelid/1635938193?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/199" tvg-id="9d87adba1a88bc0a223538e2b6e920dd" tvg-chno="615",Tiny Pop
+http://192.168.1.73:9981/stream/channelid/984450973?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/105" tvg-id="6628712820f61b5b3268249fb93e6653" tvg-chno="618",Tiny Pop+1
+http://192.168.1.73:9981/stream/channelid/678504550?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/101" tvg-id="4e2d5150dbbd624d7061856cbdac44b3" tvg-chno="619",POP+1
+http://192.168.1.73:9981/stream/channelid/1347497294?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/180" tvg-id="4fc140be4404735dcbd5698a5d96cb9d" tvg-chno="620",POP Max
+http://192.168.1.73:9981/stream/channelid/1044431183?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/228" tvg-id="c1abc2cb9e938fbf1eb052a3796c5271" tvg-chno="621",POP Max+1
+http://192.168.1.73:9981/stream/channelid/1271049153?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/41" tvg-id="7f23d0da03ccd473735c5d58fe44490f" tvg-chno="643",CBBC HD
+http://192.168.1.73:9981/stream/channelid/1523590015?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/60" tvg-id="555616689e362b6d95abb4fd8846b64d" tvg-chno="644",CBeebies HD
+http://192.168.1.73:9981/stream/channelid/1746294357?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/134" tvg-id="85ad845fad2e43dfd31ec593b46cecfc" tvg-chno="660",QVC
+http://192.168.1.73:9981/stream/channelid/1602530693?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/209" tvg-id="5fd10f1e1f845e498acd93a91f866b2b" tvg-chno="663",QVC Beauty
+http://192.168.1.73:9981/stream/channelid/504353119?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/149" tvg-id="0dd4df6357eed95efe6e0a4a43f5b4ce" tvg-chno="664",Ideal World HD
+http://192.168.1.73:9981/stream/channelid/1675613197?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/98" tvg-id="bb8e4b969789d4aaa10e920d7f931eef" tvg-chno="677",QVC Style
+http://192.168.1.73:9981/stream/channelid/374050491?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/97" tvg-id="9b74d120d04857d52a1c758c55efd5a9" tvg-chno="682",QVC Extra
+http://192.168.1.73:9981/stream/channelid/550597787?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/239" tvg-id="3e1d817a709009a653b667056bbb8106" tvg-chno="683",Create&CraftHD
+http://192.168.1.73:9981/stream/channelid/2055281982?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/167" tvg-id="403f5b13661fae815e9c175b4acbd2e4" tvg-chno="703",SONY TV HD
+http://192.168.1.73:9981/stream/channelid/324747072?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/236" tvg-id="6e2e03061f0cec7921f811a8b234bd2a" tvg-chno="705",Utsav Plus HD
+http://192.168.1.73:9981/stream/channelid/100871790?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/207" tvg-id="7b7b80291ac39f3d21f7fc7253c4ac1b" tvg-chno="706",COLORS HD
+http://192.168.1.73:9981/stream/channelid/696286075?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/191" tvg-id="dd7527d4ef60c2a07328cbe1c33b1ff8" tvg-chno="715",SONY MAX HD
+http://192.168.1.73:9981/stream/channelid/1411872221?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/112" tvg-id="3ef2b2bc8db8b6494c491ddec3ab588f" tvg-chno="717",Utsav Gold HD
+http://192.168.1.73:9981/stream/channelid/1018360382?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/126" tvg-id="27bc94bac7ed070d6774991a083be5d5" tvg-chno="743",92 News
+http://192.168.1.73:9981/stream/channelid/982826023?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/202" tvg-id="42983d944beb0a2ad38450d3445548c6" tvg-chno="745",Ahlebait TV
+http://192.168.1.73:9981/stream/channelid/339580994?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/201" tvg-id="e8c8550dcca8173da417e603936fb53e" tvg-chno="756",Channel 44
+http://192.168.1.73:9981/stream/channelid/223725800?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/196" tvg-id="45ae5d73f09a683d8750511288ee04d4" tvg-chno="774",POLITICSPUNJAB
+http://192.168.1.73:9981/stream/channelid/1935519301?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/72" tvg-id="9f095bd4836e4e830dd9814e13a0e5df" tvg-chno="779",ATN
+http://192.168.1.73:9981/stream/channelid/1415252383?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/139" tvg-id="fee4ad18c8046861ada7e04073ec2f2a" tvg-chno="782",iON TV
+http://192.168.1.73:9981/stream/channelid/414049534?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/16" tvg-id="4291f87d7b95d21574620b6247bf0a74" tvg-chno="793",Iran Int'l HD
+http://192.168.1.73:9981/stream/channelid/2113442114?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/14" tvg-id="354c29ae23e47ed84ee5e05b0ce741fd" tvg-chno="802",BBC Two HD
+http://192.168.1.73:9981/stream/channelid/774458421?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/82" tvg-id="4f9c2da7bf650b563a07bf85b1ffc358" tvg-chno="809",W
+http://192.168.1.73:9981/stream/channelid/657300559?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/221" tvg-id="499c3947e0d425530d6321aca1ec68d1" tvg-chno="810",GOLD
+http://192.168.1.73:9981/stream/channelid/1194957897?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/66" tvg-id="c01e6ea760dc7a437b36517b9bf4c8df" tvg-chno="811",Dave
+http://192.168.1.73:9981/stream/channelid/661528256?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/259" tvg-id="68cda00470cbf211960ed10ddbf0641a" tvg-chno="815",BBC Four HD
+http://192.168.1.73:9981/stream/channelid/77647208?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/64" tvg-id="9cabcdf0da815efc6632ff4005ca0d1c" tvg-chno="823",Discovery
+http://192.168.1.73:9981/stream/channelid/1892527004?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/150" tvg-id="5a6f4150f3dac420646eb538f5c68542" tvg-chno="824",MTV
+http://192.168.1.73:9981/stream/channelid/1346465626?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/137" tvg-id="569d9ce28474bf9d00b86ebcd8abce92" tvg-chno="827",alibi
+http://192.168.1.73:9981/stream/channelid/1654431062?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/165" tvg-id="31eca6ed19b3c3f693cfc40b93f82b5d" tvg-chno="828",TLC
+http://192.168.1.73:9981/stream/channelid/1839655985?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/203" tvg-id="dacc55852f07c7ac637744ae4375083a" tvg-chno="829",S4C HD
+http://192.168.1.73:9981/stream/channelid/89509082?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/56" tvg-id="31bbd710c7e94018fd371108058be6dc" tvg-chno="830",E4
+http://192.168.1.73:9981/stream/channelid/282573617?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/45" tvg-id="a4eee48307e2927a2131771a8aea91a4" tvg-chno="831",More4
+http://192.168.1.73:9981/stream/channelid/65334948?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/213" tvg-id="a634facb642c80e6c9acfa6fab2d700a" tvg-chno="834",QUEST HD
+http://192.168.1.73:9981/stream/channelid/1274688678?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/125" tvg-id="61df9002daa4ca6de1ae31f893ee5c33" tvg-chno="843",Smithsonian HD
+http://192.168.1.73:9981/stream/channelid/43048801?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/44" tvg-id="2e87bbe4bb3cb72bc2e20b01e4b5e305" tvg-chno="844",BBCScotlandHD
+http://192.168.1.73:9981/stream/channelid/1690011438?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/184" tvg-id="2c9c1bfc3427fda5a17abddbc4ea6fb8" tvg-chno="848",SkyPremiereHD
+http://192.168.1.73:9981/stream/channelid/2082184236?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/6" tvg-id="645c24a5d88885407a737345538e89a7" tvg-chno="849",Sky Greats HD
+http://192.168.1.73:9981/stream/channelid/623139940?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/250" tvg-id="66f2352af766303e1f097c2fb7de1bf6" tvg-chno="850",Sky Family HD
+http://192.168.1.73:9981/stream/channelid/708178534?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/141" tvg-id="08a4ccb96534ac7c2bc0de71f777d9e9" tvg-chno="851",Sky Action HD
+http://192.168.1.73:9981/stream/channelid/969712648?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/119" tvg-id="241f103fa04d79d309d814870844d6aa" tvg-chno="852",Sky Comedy HD
+http://192.168.1.73:9981/stream/channelid/1058021156?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/34" tvg-id="8dea546ba9069101d141f58d348fbcbe" tvg-chno="853",Sky Thriller HD
+http://192.168.1.73:9981/stream/channelid/1800727181?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/158" tvg-id="8b0126b90bfa3220a5d75ba7ddf21111" tvg-chno="854",SkyChristmasHD
+http://192.168.1.73:9981/stream/channelid/958792075?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/58" tvg-id="61d2b31e41c8d3cf2f06e43520696d6b" tvg-chno="855",Film4
+http://192.168.1.73:9981/stream/channelid/515101281?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/18" tvg-id="2a083d909ed311888a29c1a2401e3993" tvg-chno="859",SkySpMainEvHD
+http://192.168.1.73:9981/stream/channelid/272435242?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/107" tvg-id="0a9f51b9c28f16d2d18dfb1fc9824105" tvg-chno="860",SkySp PL HD
+http://192.168.1.73:9981/stream/channelid/961650442?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/194" tvg-id="107edbb7eb9131c6eef698cb3cd0cc36" tvg-chno="861",SkySp F'ball HD
+http://192.168.1.73:9981/stream/channelid/937131536?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/12" tvg-id="83450a739a833dc45183c0d2af5dd1ad" tvg-chno="862",SkySpCricket HD
+http://192.168.1.73:9981/stream/channelid/1930052995?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/129" tvg-id="0f991f7b788eb390f1e40b68baeb550d" tvg-chno="863",SkySp Golf HD
+http://192.168.1.73:9981/stream/channelid/2065668367?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/26" tvg-id="a03e67bb6f4726878b15a38e5bccdab8" tvg-chno="864",SkySp F1 HD
+http://192.168.1.73:9981/stream/channelid/996621984?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/198" tvg-id="b6ea8056a1238c1cf02f59d1e39287c1" tvg-chno="865",SkySp NFL HD
+http://192.168.1.73:9981/stream/channelid/1451289270?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/108" tvg-id="fc49e246540902b2c01287206cfd6139" tvg-chno="866",SkySp DartsHD
+http://192.168.1.73:9981/stream/channelid/1189235196?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/147" tvg-id="535da312042f5609bf3502b54178c243" tvg-chno="870",BT Sport 1 HD
+http://192.168.1.73:9981/stream/channelid/312696147?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/37" tvg-id="4d6c44739c9e4768d161ed1e9f2d7365" tvg-chno="871",BT Sport 2 HD
+http://192.168.1.73:9981/stream/channelid/1933864013?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/120" tvg-id="5cb29452d2dee96fba3f7d737aedb244" tvg-chno="872",SkySp Racing HD
+http://192.168.1.73:9981/stream/channelid/1385476700?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/152" tvg-id="61e1589a666c2ecb0f7f9fd30b05d227" tvg-chno="874",BT Sport 3 HD
+http://192.168.1.73:9981/stream/channelid/442032481?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/172" tvg-id="4fbd20437e37a550782ba0945cb53e39" tvg-chno="876",BTSpt//ESPNHD
+http://192.168.1.73:9981/stream/channelid/1126219087?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/187" tvg-id="2b81acc33a4a8f8135dd88e2d67275c5" tvg-chno="877",Racing TV HD
+http://192.168.1.73:9981/stream/channelid/1135378731?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/55" tvg-id="1d5e9f3209f15766e5ed22ae4bf3efeb" tvg-chno="882",BBC NEWS HD
+http://192.168.1.73:9981/stream/channelid/849305117?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/155" tvg-id="4a6f5dc8ecd37c5b71561c583e9e0399" tvg-chno="883",CNBC HD
+http://192.168.1.73:9981/stream/channelid/1214082890?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/231" tvg-id="67275dd19ba39ce6513265ce5cc11259" tvg-chno="884",CNN HD
+http://192.168.1.73:9981/stream/channelid/1365059431?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/148" tvg-id="6201a01faddb30fdd9a7bb4344f83b0e" tvg-chno="886",TRT World HD
+http://192.168.1.73:9981/stream/channelid/530579810?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/43" tvg-id="0d7a030498fa38a4238f3739b28e4bbf" tvg-chno="890",TJC HD
+http://192.168.1.73:9981/stream/channelid/67336717?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/29" tvg-id="c77fe45f7655ab94d99067870e980799" tvg-chno="897",PCNE Chinese HD
+http://192.168.1.73:9981/stream/channelid/1608810439?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/173" tvg-id="4588920e2107e4ac3a856dc91b1e010a" tvg-chno="902",Xpanded TV
+http://192.168.1.73:9981/stream/channelid/244484165?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/48" tvg-id="587206cf6b42d2773edc5b5c8aabdb38" tvg-chno="977",BBC One ScotHD
+http://192.168.1.73:9981/stream/channelid/1325822552?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/49" tvg-id="b32d6f040cdb79df575f062a6c53e9ae" tvg-chno="978",BBC One Wal HD
+http://192.168.1.73:9981/stream/channelid/74395059?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/2" tvg-id="bce47ec72490b1662cc5b08fa90bc478" tvg-chno="979",BBC One NI HD
+http://192.168.1.73:9981/stream/channelid/1199498428?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/27" tvg-id="38e3d148715e26259a1c355421bc62cf" tvg-chno="980",BBC Two Wal HD
+http://192.168.1.73:9981/stream/channelid/1221714744?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/121" tvg-id="13adcf1e2926bf063312e0704a36d2b7" tvg-chno="998",Sky Intro
+http://192.168.1.73:9981/stream/channelid/516926739?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/263" tvg-id="bb7a2ad18c8902aee31284975b7c918d" tvg-chno="2049",My Sky
+http://192.168.1.73:9981/stream/channelid/1361738427?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/113" tvg-id="483eaf53fae7968a78e5190605065c94" tvg-chno="3122",WRN Europe
+http://192.168.1.73:9981/stream/channelid/1403993672?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/264" tvg-id="289c9c8fd9d54939b6ab034a9d71b61a" tvg-chno="4901",Browse Shop
+http://192.168.1.73:9981/stream/channelid/261921832?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/265" tvg-id="7411156435cad300f0a4dd0064d64e46" tvg-chno="4902",Reset your PIN
+http://192.168.1.73:9981/stream/channelid/1679102324?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/266" tvg-id="03436384489b32d030d3c3c8b046c191" tvg-chno="4903",My Account
+http://192.168.1.73:9981/stream/channelid/73614083?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/90" tvg-id="2461fc46d06db60aab5978aceb25fc53" tvg-chno="4904",Get Sky Products
+http://192.168.1.73:9981/stream/channelid/1190945060?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/267" tvg-id="c6585c82c86d47ecb3f51f9b953813dc" tvg-chno="4905",Help and Support
+http://192.168.1.73:9981/stream/channelid/39606470?profile=pass
+#EXTINF:-1 logo="http://192.168.1.73:9981/imagecache/268" tvg-id="a0aa32983bf7df74db8f6db07b6c6f06" tvg-chno="4906",Program Your Remote
+http://192.168.1.73:9981/stream/channelid/405973664?profile=pass
